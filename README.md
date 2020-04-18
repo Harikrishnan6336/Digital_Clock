@@ -1,5 +1,7 @@
 # 🕕Digital_Clock
 
+         ✨See [here](https://harikrishnan6336.github.io/Digital_Clock/).
+
 ## 📘 Description
 
 A simple project to understand the basics of HTML, CSS, Javascript. Also learned more about Github Pages
