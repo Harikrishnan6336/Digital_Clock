@@ -22,7 +22,7 @@ function showTime(){
     document.getElementById("Clock").innerText = time;
     document.getElementById("Clock").textContent = time;
 
-    //setTimeout(showTime, 1000);
+    setTimeout(showTime, 1000);
 
 }
 
