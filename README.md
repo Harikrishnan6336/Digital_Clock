@@ -1,6 +1,6 @@
 # 🕕Digital_Clock
 
-         ✨See [here](https://harikrishnan6336.github.io/Digital_Clock/).
+        See [here](https://harikrishnan6336.github.io/Digital_Clock/)
 
 ## 📘 Description
 
