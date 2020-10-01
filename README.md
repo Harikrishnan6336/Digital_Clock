@@ -4,7 +4,7 @@
 
 ## 📘 Description
 
-A simple project to understand the basics of HTML, CSS, Javascript. Also learned more about Github Pages
+A simple project to understand the basics of HTML, CSS, Javascript. Also learned more about Github Pages...
 
 ## Built With ❤️ 
 
